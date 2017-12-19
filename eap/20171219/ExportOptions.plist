@@ -18,7 +18,7 @@
 	<key>provisioningProfiles</key>
 	<dict>
 		<key>com.mitrais.eap</key>
-		<string>EAP Services</string>
+		<string>EAP IOS Distribution Profile</string>
 	</dict>
 	<key>signingCertificate</key>
 	<string>iPhone Distribution</string>
