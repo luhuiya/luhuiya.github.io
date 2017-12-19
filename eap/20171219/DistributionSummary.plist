@@ -37,7 +37,7 @@
 						<string>iOS Distribution</string>
 					</dict>
 					<key>name</key>
-					<string>GaugeKit</string>
+					<string>GaugeKit.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
