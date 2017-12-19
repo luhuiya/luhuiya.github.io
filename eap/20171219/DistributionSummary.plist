@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eap.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>46D8D63ED5FC6A3BF346CB0158F95A12747A991E</string>
+				<key>dateExpires</key>
+				<string>18/12/18</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>46D8D63ED5FC6A3BF346CB0158F95A12747A991E</string>
+						<key>dateExpires</key>
+						<string>18/12/18</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>GaugeKit</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>62PYG5KRDL</string>
+						<key>name</key>
+						<string>PT. Mitrais</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>46D8D63ED5FC6A3BF346CB0158F95A12747A991E</string>
+						<key>dateExpires</key>
+						<string>18/12/18</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>GoogleToolboxForMac.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>62PYG5KRDL</string>
+						<key>name</key>
+						<string>PT. Mitrais</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>46D8D63ED5FC6A3BF346CB0158F95A12747A991E</string>
+						<key>dateExpires</key>
+						<string>18/12/18</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Protobuf.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>62PYG5KRDL</string>
+						<key>name</key>
+						<string>PT. Mitrais</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>46D8D63ED5FC6A3BF346CB0158F95A12747A991E</string>
+						<key>dateExpires</key>
+						<string>18/12/18</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>TwilioChatClient.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>62PYG5KRDL</string>
+						<key>name</key>
+						<string>PT. Mitrais</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>46D8D63ED5FC6A3BF346CB0158F95A12747A991E</string>
+						<key>dateExpires</key>
+						<string>18/12/18</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>TwilioVideo.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>62PYG5KRDL</string>
+						<key>name</key>
+						<string>PT. Mitrais</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>46D8D63ED5FC6A3BF346CB0158F95A12747A991E</string>
+						<key>dateExpires</key>
+						<string>18/12/18</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>nanopb.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>62PYG5KRDL</string>
+						<key>name</key>
+						<string>PT. Mitrais</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>62PYG5KRDL.com.mitrais.eap</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>62PYG5KRDL</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>eap.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>3d33d477-e7e1-4e10-aa34-4169c2f44bff</string>
+				<key>name</key>
+				<string>EAP Services</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>62PYG5KRDL</string>
+				<key>name</key>
+				<string>PT. Mitrais</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
